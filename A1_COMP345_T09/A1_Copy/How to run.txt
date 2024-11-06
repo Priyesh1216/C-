@@ -1,0 +1,11 @@
+How to run:
+
+- cd into the appropriate folder with all the files
+
+----Run the following commands-----
+
+1. g++ MainDriver.cpp CardsDriver.cpp MapDriver.cpp OrdersDriver.cpp PlayerDriver.cpp Cards.cpp Map.cpp Orders.cpp Player.cpp
+
+2. 
+    if on windows: ./a.exe 
+    if on mac/linus: ./a.out

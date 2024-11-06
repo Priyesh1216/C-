@@ -1,0 +1,24 @@
+[Map]
+author=example
+image=example.bmp
+wrap=no
+scroll=horizontal
+
+[Continents]
+North America=5
+South America=3
+
+[Territories]
+Alaska,North America,Northwest Territory,Alberta
+Northwest Territory,North America,Alaska,Alberta,Ontario,Greenland
+Alberta,North America,Alaska,Northwest Territory,Ontario,Western US
+Ontario,North America,Northwest Territory,Alberta,Western US,Eastern US,Quebec
+Western US,North America,Alberta,Ontario,Eastern US,Central America
+Eastern US,North America,Ontario,Western US,Central America,Quebec
+Quebec,North America,Ontario,Eastern US,Greenland
+Greenland,North America,Northwest Territory,Ontario,Quebec
+
+Brazil,South America,Peru,Argentina,Central America
+Peru,South America,Brazil,Argentina
+Argentina,South America,Brazil,Peru
+Central America,North America,Brazil,Western US,Eastern US
